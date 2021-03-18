@@ -15,6 +15,7 @@ namespace azwebapplication
     {
         public Startup(IConfiguration configuration)
         {
+            //changes made
             Configuration = configuration;
         }
 
